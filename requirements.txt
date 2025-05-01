@@ -1,0 +1,19 @@
+# Librería base para el frontend interactivo
+streamlit>=1.22.0
+
+# Manejo de datos
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualización de gráficos (opcional si decides incluir gráficas)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning y reducción de dimensionalidad
+scikit-learn>=1.0.0
+
+# Análisis de correspondencias múltiples
+prince>=0.10.3
+
+# Soporte para lectura de archivos diversos
+python-dateutil
